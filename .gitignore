@@ -62,8 +62,4 @@ typings/
 
 .gitignore
 .idea/
-app.js
-geocode/
-package-lock.json
-package.json
-playground/
+
